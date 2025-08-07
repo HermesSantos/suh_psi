@@ -1,0 +1,45 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun.lockb
+
+# Environment
+.env*
+!.env.example
+
+# Build output
+dist/
+build/
+ssr/
+
+# Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+log/
+*.tsbuildinfo
+
+# Test coverage
+coverage/
+*.lcov
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional: local dev server output (e.g., Vite)
+*.local
+
+# Mac/Linux Trash
+.Trashes
