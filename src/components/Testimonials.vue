@@ -1,7 +1,7 @@
 <template>
   <section id="depoimentos" class="testimonials section">
     <div class="container">
-      <h2 class="section-title">Veja o que diz quem já fez a Terapia:</h2>
+      <h2 class="the-title">Veja o que diz <span class="highlight-red">quem já fez a Terapia</span>:</h2>
       <p class="section-subtitle">Com base em + de 90 avaliações</p>
       
       <div class="stars-rating">
@@ -99,7 +99,15 @@ export default {
   color: white;
 }
 
-.section-title,
+.the-title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 20px;
+  background: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
 .section-subtitle {
   color: white;
 }
@@ -206,6 +214,11 @@ export default {
 .read-more:hover {
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(240, 147, 251, 0.3);
+}
+
+.highlight-red {
+  color: #ff6b6b;
+  font-weight: 700;
 }
 
 .testimonial-navigation {
