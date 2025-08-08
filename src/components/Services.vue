@@ -65,7 +65,7 @@
         <h3 class="treatment-title">Tratamento Breve</h3>
         <div class="treatment-comparison">
           <div class="treatment-card terapia-jenifer">
-            <h4>Terapia com a Dr. Ana</h4>
+            <h4>Terapia com Suanny</h4>
             <p>Todo o processo terapêutico acontece em poucas sessões. O tratamento é breve e focado para resolver seu conflito, te trazendo autonomia e liberdade emocional.</p>
           </div>
           <div class="treatment-card terapia-convencional">
@@ -231,6 +231,28 @@ export default {
   background: #f8fafc;
   color: #333;
   border: 2px solid #e2e8f0;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.btn-pulse {
+  position: relative;
+  animation: pulse-shadow 2.5s infinite ease-in-out;
+  /* Estilo base do botão */
+  background-color: #e0245e; /* tom vermelho forte */
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.btn-pulse:hover {
+  background-color: #c81e50;
 }
 
 .treatment-card h4 {

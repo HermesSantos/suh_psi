@@ -45,7 +45,7 @@
       <div class="footer-bottom">
         <div class="footer-divider"></div>
         <div class="footer-bottom-content">
-          <p>&copy; 2025 Dr. Ana Silva - Psicóloga. Todos os direitos reservados.</p>
+          <p>&copy; 2025 Suanny Araujo - Psicóloga. Todos os direitos reservados.</p>
           <div class="footer-links">
             <a href="#">Política de Privacidade</a>
             <a href="#">Termos de Uso</a>

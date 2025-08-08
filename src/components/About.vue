@@ -3,7 +3,7 @@
     <div class="container">
       <div class="about-content">
         <div class="about-image">
-          <img src="../assets/about-image.jpg" alt="Dr. Ana Silva - Psicóloga" class="about-photo">
+          <img src="../assets/suanny-roto-who-am-i.png" alt="Suanny Araujo - Psicóloga" class="about-photo">
         </div>
         <div class="about-text">
           <h2 class="section-title">Quem sou eu?</h2>
@@ -26,7 +26,7 @@
             
             <div class="detail-item">
               <span class="icon">👨‍👩‍👧‍👦</span>
-              <p>Mãe do <strong>Miguel</strong> e do <strong>Joaquim</strong></p>
+              <p>Mãe do <strong>Leonardo</strong></p>
             </div>
             
             <div class="detail-item">

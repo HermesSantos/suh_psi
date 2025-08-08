@@ -13,7 +13,7 @@
             <strong>autonomia emocional necessária para superá-los.</strong>
           </p>
           <div class="hero-buttons">
-            <a href="#contato" class="btn btn-primary btn-pulse">Quero conhecer!</a>
+            <a href="#contato" class="btn btn-primary btn-pulse">Quero Conhecer!</a>
             <div class="rating">
               <div class="stars">
                 <span>⭐⭐⭐⭐⭐</span>
@@ -23,7 +23,7 @@
           </div>
         </div>
         <div class="hero-image">
-          <img src="../assets/hero-image.jpg" alt="Dr. Ana Silva - Psicóloga" class="hero-photo">
+          <img src="../assets/suanny-rosto.png" alt="Suanny Araujo - Psicóloga" class="hero-photo">
           <div class="floating-elements">
             <div class="floating-heart">❤️</div>
             <div class="floating-brain">🧠</div>
@@ -61,8 +61,8 @@ export default {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><defs><radialGradient id="a" cx="50%" cy="50%"><stop offset="0%" stop-color="%23ffffff" stop-opacity="0.1"/><stop offset="100%" stop-color="%23ffffff" stop-opacity="0"/></radialGradient></defs><circle cx="200" cy="200" r="100" fill="url(%23a)"/><circle cx="800" cy="300" r="150" fill="url(%23a)"/><circle cx="400" cy="700" r="120" fill="url(%23a)"/></svg>');
-  opacity: 0.3;
+  background-image: url("../assets/psi-back.jpeg");
+  opacity: 0.1;
 }
 
 .hero-content {

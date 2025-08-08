@@ -22,7 +22,7 @@
             <div class="google-icon">G</div>
           </div>
           <p class="testimonial-text">
-            Conheci a Dr. Ana por meio do processo de Reintegração Implícita, que procurei em um momento em que me sentia muito irritada e estressada no dia a dia. Desde o primeiro encontro, percebi uma mudança significativa na minha capacidade de lidar com as situações do cotidiano.
+            Conheci a Dr. Suanny por meio do processo de Reintegração Implícita, que procurei em um momento em que me sentia muito irritada e estressada no dia a dia. Desde o primeiro encontro, percebi uma mudança significativa na minha capacidade de lidar com as situações do cotidiano.
           </p>
           <button class="read-more">Consulte Mais informação</button>
         </div>
@@ -40,7 +40,7 @@
             <div class="google-icon">G</div>
           </div>
           <p class="testimonial-text">
-            "Hoje, eu assumo a minha vida. Depois de enfrentar dores profundas, medos silenciosos e perdas que pareciam me desabar, eu renasci. A terapia com a Dr. Ana me trouxe uma nova perspectiva e ferramentas para lidar com os desafios da vida."
+            "Hoje, eu assumo a minha vida. Depois de enfrentar dores profundas, medos silenciosos e perdas que pareciam me desabar, eu renasci. A terapia com a Dr. Suanny me trouxe uma nova perspectiva e ferramentas para lidar com os desafios da vida."
           </p>
           <button class="read-more">Consulte Mais informação</button>
         </div>
