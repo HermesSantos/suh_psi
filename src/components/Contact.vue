@@ -9,8 +9,8 @@
           <div class="info-card">
             <div class="info-icon">📱</div>
             <h3>WhatsApp</h3>
-            <p>(11) 99999-9999</p>
-            <a href="https://wa.me/5511999999999" class="btn btn-whatsapp" target="_blank">
+            <p>(79) 9887-0131</p>
+            <a href="https://wa.me/557998870131" class="btn btn-whatsapp" target="_blank">
               Conversar no WhatsApp
             </a>
           </div>
@@ -18,8 +18,8 @@
           <div class="info-card">
             <div class="info-icon">📧</div>
             <h3>E-mail</h3>
-            <p>contato@draanasilva.com.br</p>
-            <a href="mailto:contato@draanasilva.com.br" class="btn btn-email">
+            <p>contato@suanny.com.br</p>
+            <a href="mailto:contato@suanny.com.br" class="btn btn-email">
               Enviar E-mail
             </a>
           </div>

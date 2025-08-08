@@ -35,9 +35,9 @@
         <div class="footer-section">
           <h4>Contato</h4>
           <div class="contact-info">
-            <p>📱 (11) 99999-9999</p>
-            <p>📧 contato@draanasilva.com.br</p>
-            <p>📍 Rua das Flores, 123<br>Vila Madalena - São Paulo/SP</p>
+            <p> (79) 9887-0131</p>
+            <p> contato@suanny.com.br</p>
+            <p> Rua das Flores, 123<br>Vila Madalena - São Paulo/SP</p>
           </div>
         </div>
       </div>
