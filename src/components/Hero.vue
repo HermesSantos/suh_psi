@@ -13,7 +13,7 @@
             <strong>autonomia emocional necessária para superá-los.</strong>
           </p>
           <div class="hero-buttons">
-            <a href="#contato" class="btn btn-primary">Quero conhecer!</a>
+            <a href="#contato" class="btn btn-primary btn-pulse">Quero conhecer!</a>
             <div class="rating">
               <div class="stars">
                 <span>⭐⭐⭐⭐⭐</span>
@@ -53,7 +53,6 @@ export default {
   overflow: hidden;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
-  padding-top: 80px;
 }
 
 .hero-background {
@@ -183,6 +182,34 @@ export default {
   top: 60%;
   right: 10%;
   animation-delay: 2s;
+}
+
+.btn-pulse {
+  position: relative;
+  animation: pulse-shadow 2.5s infinite ease-in-out;
+  /* Estilo base do botão */
+  background-color: #e0245e; /* tom vermelho forte */
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.btn-pulse:hover {
+  background-color: #c81e50;
+}
+
+/* Animação da sombra pulsante */
+@keyframes pulse-shadow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(224, 36, 94, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 15px 10px rgba(224, 36, 94, 0);
+  }
 }
 
 @keyframes float {

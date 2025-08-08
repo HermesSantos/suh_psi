@@ -66,7 +66,6 @@ export default {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   font-size: 1.8rem;
-  font-weight: 700;
 }
 
 .nav-links {
