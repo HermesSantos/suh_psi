@@ -3,7 +3,7 @@
     <div class="container">
       <nav class="nav">
         <div class="logo">
-          <h2>Dr. Ana Silva</h2>
+          <h2>Suanny Araujo</h2>
         </div>
         <ul class="nav-links" :class="{ active: isMenuOpen }">
           <li><a href="#inicio" @click="closeMenu">Início</a></li>

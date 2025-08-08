@@ -3,7 +3,7 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-section">
-          <h3>Dr. Ana Silva</h3>
+          <h3>Suanny Araujo</h3>
           <p>Psicóloga especializada em terapia breve e eficaz. Transformando vidas através da neurociência afetiva.</p>
           <div class="social-icons">
             <a href="#" class="social-icon">📷</a>

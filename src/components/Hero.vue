@@ -5,18 +5,12 @@
       <div class="hero-content">
         <div class="hero-text">
           <h1 class="hero-title">
-            Transforme sua vida com 
-            <span class="highlight">terapia breve</span> 
-            e eficaz
+            Até quando você vai carregar esse peso
+            <span class="highlight">em silêncio?</span> 
           </h1>
           <p class="hero-subtitle">
-            Proteja seus relacionamentos, viva uma vida mais saudável e 
-            <strong>transforme sua vida em poucos encontros.</strong>
-          </p>
-          <p class="hero-description">
-            Com base em neurociência afetiva, a terapia breve 
-            <strong>identifica a raiz dos conflitos emocionais</strong> 
-            e ensina <strong>autonomia emocional</strong> para resolvê-los!
+           A partir dos princípios da neurociência afetiva, a terapia breve investiga a origem dos conflitos emocionais que afetam sua vida e desenvolve em você a Proteja seus relacionamentos, viva uma vida mais saudável e 
+            <strong>autonomia emocional necessária para superá-los.</strong>
           </p>
           <div class="hero-buttons">
             <a href="#contato" class="btn btn-primary">Quero conhecer!</a>
@@ -48,6 +42,9 @@ export default {
 </script>
 
 <style scoped>
+.btn {
+  border-radius: 10px;
+}
 .hero {
   min-height: 100vh;
   display: flex;
@@ -80,6 +77,7 @@ export default {
 
 .hero-title {
   font-size: 3.5rem;
+  font-family: "Playfair Display", Sans-serif;
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 20px;
@@ -91,6 +89,8 @@ export default {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   font-style: italic;
+  font-family: "Playfair Display", Sans-serif;
+  padding: .5rem;
 }
 
 .hero-subtitle {
